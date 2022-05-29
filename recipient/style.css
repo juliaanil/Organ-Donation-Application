@@ -1,0 +1,131 @@
+.login_wrapper{
+  margin-top: 500px;
+}
+span {
+  padding: 10px;
+  margin: 10px;
+  border: 10px yellow;
+  color: white;
+  display: inline-block;
+  margin-top: 500px;
+}
+.header{
+  margin-top: 500px;
+  text-align: center;
+  color:black;
+}
+h1{
+  text-align: center;
+}
+.login_holder {
+  
+  text-align: center;
+	
+	max-width: 400px;
+	background: yellow;
+	padding: 10px 15px;
+  margin-bottom: 250px;
+  margin-left: 460px;
+}
+#c {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 65%;
+  color: black;
+}
+
+#c td, #c th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#c tr:nth-child(even){background-color: #f2f2f2;}
+
+#c tr:hover {background-color: #ddd;}
+
+#c th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+}
+
+.logo{
+    color:red;
+    size :10px;
+    text-align:center;
+    font-size: 30px;
+}
+.head{
+    color:pink;
+    font-size: 15px;
+}
+.main{
+    width: 100%;
+    background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(hand.jpg);
+    background-position: center;
+    background-size:cover;
+    height: 109vh;
+}
+.button {
+  background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 7px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.button1 {
+  background-color: yellow; 
+  border: none;
+  color: black;
+  padding: 9px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+.button1 {
+  background-color: yellow; 
+  border: none;
+  color: black;
+  padding: 9px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+.button2 {
+  background-color: orange; 
+  border: none;
+  color: black;
+  padding: 9px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+.button3 {
+  background-color: blue; 
+  border: none;
+  color: white;
+  padding: 9px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+.button4 {
+  background-color: greenyellow; 
+  border: none;
+  color: black;
+  padding: 9px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+    
